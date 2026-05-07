@@ -1,6 +1,4 @@
-# EDA
-Proyecto EDA
-LA DEMOGRAFÍA DE EUSKADI: EVOLUCIÓN RECIENTE Y ANÁLISIS DE PARÁMETROS BÁSICOS
+# PROYECTO EDA: LA DEMOGRAFÍA DE EUSKADI: EVOLUCIÓN RECIENTE Y ANÁLISIS DE PARÁMETROS BÁSICOS
 
 El estudio planteado tiene como objetivo llevar a cabo una aproximación a la evolución reciente de la estructura poblacional del País Vasco.
 
@@ -24,6 +22,9 @@ INE (Instituto Nacional de Estadística):
 
 EUSTAT (Instituto Vasco de Estadística):
 - Microdatos de la Estadística de Nacimientos
+
+
+
 
 
 HIPÓTESIS
