@@ -1,4 +1,4 @@
-# PROYECTO EDA: LA DEMOGRAFÍA DE EUSKADI: EVOLUCIÓN RECIENTE Y ANÁLISIS DE PARÁMETROS BÁSICOS
+# PROYECTO EDA: LA DEMOGRAFÍA DE EUSKADI: ANÁLISIS DE PARÁMETROS BÁSICOS Y EVOLUCIÓN RECIENTE
 
 El estudio planteado tiene como objetivo llevar a cabo una aproximación a la evolución reciente de la estructura poblacional del País Vasco.
 
