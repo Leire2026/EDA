@@ -6,12 +6,12 @@ En las últimas décadas se han producido importantes cambios en la estructura, 
 
 Algunos de los <u>aspectos a analizar</u>:
 
-- Tamaño poblacional. Número de residentes en Euskadi y evolución en las últimas décadas.
+- Tamaño poblacional. Número de residentes por edad en Euskadi y evolución en las últimas décadas.
 - Movimiento natural de la población: evolución en número de nacimientos y defunciones en las últimas décadas, prestando especial atención a las dinámicas relacionadas con la natalidad (nacimientos, fecundidad).
 - Movimientos migratorios. Valoración del impacto que la entrada de población extranjera está teniendo en la estructura de población de Euskadi, prestando especial atención a las diferencias en el comportamiento en relación con la natalidad.
 - Previsible evolución de la natalidad en los próximos años, atendiendo a la actual estructura poblacional.
 
-Principales <u>fuentes de información</u> utilizadas:  
+Principales <u>fuentes de información</u> utilizadas: 
 
 INE (Instituto Nacional de Estadística):
 - Estadística Continua de Población (población a 1 de enero de cada año)
@@ -19,9 +19,6 @@ INE (Instituto Nacional de Estadística):
 - Indicadores de Natalidad
 - Indicadores de Fecundidad
 - Estadística de Defunciones
-
-EUSTAT (Instituto Vasco de Estadística):
-- Microdatos de la Estadística de Nacimientos
 
 
 
@@ -34,8 +31,6 @@ Las <u>hipótesis preliminares</u> a contrastar a través del análisis de los d
 
 2. Pese a estar experimentando un proceso de envejecimiento, la población de Euskadi crece en los últimos años, si bien este crecimiento se explica por la entrada de población (proceso inmigratorio), no así por crecimiento natural de la población (natalidad).
 
-3. La entrada de población de origen extranjero está impactando de diversas maneras en la estructura poblacional, entre ellas contribuyendo al rejuvenecimiento de la misma,  
+3. La entrada de población de origen extranjero está impactando de diversas maneras en la estructura poblacional, contribuyendo al rejuvenecimiento de la misma,  
 3.1. por la incorporación de población joven que modifica la pirámide poblacional,  
 3.2. y por la introducción de pautas de natalidad diferentes a las de la población local.
-
-4. Tras más de una década de caída en la natalidad, en los próximos años es previsible se produzca un ligero incremento de la misma,  si bien este incremento será moderado y breve en el tiempo.
